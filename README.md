@@ -182,19 +182,7 @@ I specialize in **Machine Learning**, **Data Science**, and **Generative AI**, t
   <img src="https://github-profile-trophy.vercel.app/?username=azanahmed000&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azanahmed000/azanahmed000/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azanahmed000/azanahmed000/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/azanahmed000/azanahmed000/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
 
 ---
 

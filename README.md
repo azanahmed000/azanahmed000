@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=CS+Student+%7C+ML+%26+AI+Enthusiast+%F0%9F%A7%A0;Data+Analytics+%7C+Real+Datasets+%7C+Real+Impact+%F0%9F%93%8A;Learning+by+Building+%E2%80%94+One+Project+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=750&height=45&lines=%F0%9F%A7%A0+ML+%26+AI+Enthusiast+%7C+Data+Driven+Builder;%F0%9F%93%8A+Turning+Raw+Data+Into+Smart+Systems;%F0%9F%9A%80+Building+Intelligence+%7C+One+Project+at+a+Time;%F0%9F%94%AC+CS+Student+%7C+Always+Learning+%7C+Always+Shipping" alt="Typing SVG" /></a>
 </div>
 
 <br/>
@@ -26,30 +26,45 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-```yaml
-name: Azan Ahmed Pirzada
-located_in: Pakistan
-current_focus: Machine Learning + Data Projects
-education: CS Student
+<table>
+  <tr>
+    <td width="55%">
 
-areas_of_interest:
-  - Machine Learning & Deep Learning
-  - Data Science & Analytics
-  - Generative AI
-  - Problem Solving & DSA
+### 🧠 Who I Am
 
-philosophy: >
-  I chose Computer Science to understand how intelligence is built,
-  not just how it's used. My focus is on building practical AI solutions
-  by combining strong fundamentals with hands-on experimentation.
+I'm **Azan Ahmed Pirzada**, a CS student who chose this field to understand **how intelligence is built** — not just how it's used.
 
-currently:
-  - 🔭 Working on ML-powered applications
-  - 🌱 Exploring TensorFlow & Generative AI
-  - 🎯 Building portfolio with real-world data projects
-  - 💬 Ask me about ML, Data Analysis, Python
-  - ⚡ Fun fact: I learn best by breaking things and rebuilding them
-```
+I specialize in **Machine Learning**, **Data Science**, and **Generative AI**, turning raw data into smart, working systems.
+
+> *"I don't just study algorithms — I build things with them."*
+
+🔭 &nbsp; Currently working on **ML-powered applications**\
+🌱 &nbsp; Exploring **TensorFlow & Generative AI**\
+🎯 &nbsp; Building portfolio with **real-world data projects**\
+💬 &nbsp; Ask me about **ML, Data Analysis, Python**\
+⚡ &nbsp; Fun fact: I learn best by **breaking things & rebuilding them**
+
+---
+
+### 🤝 Let's Connect!
+
+<a href="https://linkedin.com/in/azan-pirzada00"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/azan96809"><img src="https://img.shields.io/badge/X_%28Twitter%29-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:azan96809@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.azanahmed.tech"><img src="https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+   </td>
+    <td width="45%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Focus-Machine%20Learning-6c63ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Data%20Science-a78bfa?style=flat-square" />
+      <br/>
+      <img src="https://img.shields.io/badge/Focus-Generative%20AI-9333ea?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Problem%20Solving-7c3aed?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -85,9 +100,6 @@ currently:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
